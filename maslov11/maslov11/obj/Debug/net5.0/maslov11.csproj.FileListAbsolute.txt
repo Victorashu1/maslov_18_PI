@@ -1,0 +1,16 @@
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.exe
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.deps.json
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.runtimeconfig.json
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.runtimeconfig.dev.json
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.dll
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\ref\maslov11.dll
+C:\Users\user1\source\repos\maslov11\maslov11\bin\Debug\net5.0\maslov11.pdb
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.AssemblyInfoInputs.cache
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.AssemblyInfo.cs
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.dll
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\ref\maslov11.dll
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.pdb
+C:\Users\user1\source\repos\maslov11\maslov11\obj\Debug\net5.0\maslov11.genruntimeconfig.cache
